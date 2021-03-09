@@ -1,9 +1,13 @@
 ### Hi there, I'm Aviad 👋
 
-## About
-In the last six months, I'm was learned develop. Mostly in:
-- Node js
-- React
+#### :raising_hand: About me:
+I'm a junior software engineer.<br>
+Mostly in Node.js and React :) <br>
+My likes are Postmodern philosophy, reading and listen to music🌱.<br>
+
+### 💬 work:
+Actually I'm a soldier in IDF :)
+
 <!--
 **AviadSofer/AviadSofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
