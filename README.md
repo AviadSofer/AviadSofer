@@ -1,12 +1,12 @@
 ## Hi there, I'm Aviad 👋
 
-#### :raising_hand: So, About me:
+### :raising_hand: So, About me:
 Actually, for the last year I'm was learning how-to develop web applications✍️.<br>
 So I'm a junior web developer.
 Mostly dev in Node.js and React😄<br>
-And my likes are Postmodern philosophy, reading and listen to music :).<br>
+And my likes are Postmodern philosophy, reading and old Hebrew music🎵.<br>
 
-#### 📫 Contact: 
+### 📫 Contact: 
 [Email](mailto:aviadsofer@gmail.com)  
 [Twitter](https://twitter.com/AviadSofer)  
 [Telegram](https://t.me/Aviad1232)
