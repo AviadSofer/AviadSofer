@@ -1,11 +1,12 @@
 ### Hi there, I'm Aviad 👋
 
 #### :raising_hand: About me:
-I'm a junior software engineer.<br>
-Mostly in Node.js and React :) <br>
-My likes are Postmodern philosophy, reading and listen to music🌱.<br>
+Actually, for the last year I'm learning how-to develop web applications.<br>
+So I'm a junior web developer. Mostly dev in Javascript (Node.js and React) :)<br>
+And my likes are Postmodern philosophy, reading and listen to music🌱.<br>
 
-### 💬 work:
+
+#### 💬 work:
 Actually I'm a soldier in IDF :)
 
 <!--
