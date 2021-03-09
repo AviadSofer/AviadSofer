@@ -6,7 +6,7 @@ So I'm a junior web developer.
 Mostly dev in Node.js and React😄<br>
 And my likes are Postmodern philosophy, reading and listen to music :).<br>
 
-#### 📫 Contact me)  
+#### 📫 Contact: 
 [Email](mailto:aviadsofer@gmail.com)  
 [Twitter](https://twitter.com/AviadSofer)  
 [Telegram](https://t.me/Aviad1232)
