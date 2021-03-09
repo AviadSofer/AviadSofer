@@ -7,9 +7,7 @@ Mostly dev in Node.js and React😄<br>
 And my likes are postmodern philosophy, reading and old Hebrew music🎵.<br>
 
 #### 📫 Contact: 
-[Email](mailto:aviadsofer@gmail.com)  
-[Twitter](https://twitter.com/AviadSofer)  
-[Telegram](https://t.me/Aviad1232)
+[Email](mailto:aviadsofer@gmail.com), [Twitter](https://twitter.com/AviadSofer), [Telegram](https://t.me/Aviad1232)
 
 <!--
 **AviadSofer/AviadSofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
