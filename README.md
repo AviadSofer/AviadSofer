@@ -1,5 +1,9 @@
-### Hi there 👋
-I am Aviad:)
+### Hi there, I'm Aviad 👋
+
+## About
+In the last six months, I'm was learned develop. Mostly in:
+- Node js
+- React
 <!--
 **AviadSofer/AviadSofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
