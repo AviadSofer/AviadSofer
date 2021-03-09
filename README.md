@@ -1,14 +1,15 @@
 ### Hi there, I'm Aviad 👋
 
-#### :raising_hand: About me:
-Actually, for the last year I'm learning how-to develop web applications.<br>
+## :raising_hand: So, About me:
+Actually, for the last year I'm was learning how-to develop web applications✍️.<br>
 So I'm a junior web developer.
-Mostly dev in Javascript (Node.js and React)😄<br>
-And my likes are Postmodern philosophy, reading and listen to music🌱.<br>
+Mostly dev in Node.js and React😄<br>
+And my likes are Postmodern philosophy, reading and listen to music :).<br>
 
-
-#### 💬 work:
-Actually I'm a soldier in IDF :)
+## 📫 Contact me)  
+[Email](mailto:aviadsofer@gmail.com)  
+[Twwiter](https://twitter.com/AviadSofer)  
+[Telegram](https://t.me/Aviad1232)
 
 <!--
 **AviadSofer/AviadSofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
