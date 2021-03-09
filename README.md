@@ -1,14 +1,14 @@
-### Hi there, I'm Aviad 👋
+## Hi there, I'm Aviad 👋
 
-## :raising_hand: So, About me:
+#### :raising_hand: So, About me:
 Actually, for the last year I'm was learning how-to develop web applications✍️.<br>
 So I'm a junior web developer.
 Mostly dev in Node.js and React😄<br>
 And my likes are Postmodern philosophy, reading and listen to music :).<br>
 
-## 📫 Contact me)  
+#### 📫 Contact me)  
 [Email](mailto:aviadsofer@gmail.com)  
-[Twwiter](https://twitter.com/AviadSofer)  
+[Twitter](https://twitter.com/AviadSofer)  
 [Telegram](https://t.me/Aviad1232)
 
 <!--
