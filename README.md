@@ -2,7 +2,8 @@
 
 #### :raising_hand: About me:
 Actually, for the last year I'm learning how-to develop web applications.<br>
-So I'm a junior web developer. Mostly dev in Javascript (Node.js and React) :)<br>
+So I'm a junior web developer.
+Mostly dev in Javascript (Node.js and React)😄<br>
 And my likes are Postmodern philosophy, reading and listen to music🌱.<br>
 
 
