@@ -4,7 +4,7 @@
 Actually, for the last year I'm was learning how-to develop web applications✍️.<br>
 So I'm a junior web developer.
 Mostly dev in Node.js and React😄<br>
-And my likes are postmodern philosophy, reading and old Hebrew music🎵.<br>
+And my likes are postmodern philosophy, reading and old hebrew music🎵.<br>
 
 #### 📫 Contact: 
 [Email](mailto:aviadsofer@gmail.com), [Telegram](https://t.me/Aviad1232) or [Twitter](https://twitter.com/AviadSofer)
