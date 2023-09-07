@@ -1,8 +1,7 @@
 ## Hi there, I'm Aviad 👋
 
 #### :raising_hand: So, About me:
-Actually, for the last year I'm was learning how-to develop web applications✍️.<br>
-So I'm a junior web developer.
+I'm a Fullstack developer.
 Mostly dev in Node.js and React😄<br>
 And my likes are postmodern philosophy, reading and old hebrew music🎵.<br>
 
